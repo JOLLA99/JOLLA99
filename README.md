@@ -5,6 +5,7 @@
 ## 💌 Languages
 ![PYTHON](https://img.shields.io/amo/stars/python?color=blue&label=python&logo=python&logoColor=yellow&style=for-the-badge) 
 ![DART](https://img.shields.io/amo/stars/python?color=black&label=dart&logo=dart&logoColor=blue&style=for-the-badge)
+![JAVA](https://img.shields.io/amo/stars/python?color=black&label=java&logo=dart&logoColor=blue&style=for-the-badge)
 <!--
 **JOLLA99/JOLLA99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
