@@ -1,8 +1,8 @@
 ## Hello. Here is a growing developer. My name is Jeong Yoon. 🤔💨 
 
-### 📚 Google Developer Student Clubs Core Member in SCH Univ. (2019-2020) 
-### 📚 Google Developer Student Clubs Lead in SCH Univ. (2020-2021)
-### 📕 SCH Univ. IPL Lab (2019~2021)
+#### 📚 Google Developer Student Clubs Core Member in SCH Univ. (2019-2020) 
+#### 📚 Google Developer Student Clubs Lead in SCH Univ. (2020-2021)
+#### 📕 SCH Univ. IPL Lab (2019~2021)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JOLLA99&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
