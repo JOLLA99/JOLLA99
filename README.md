@@ -5,7 +5,6 @@
 ##### 📚 Google Developer Student Clubs **Lead** in SCH Univ. (2020-2021)
 ##### 📕 SCH Univ. IPL Lab (2019~2021)
 <br></br>
-<br></br>
 ### **Prizes**
 
 
